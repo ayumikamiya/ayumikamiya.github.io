@@ -1,6 +1,6 @@
 ---
 layout: post
-title: markdown記述方法
+title: 知っておきたいmarkdown記述方法
 ---
 
 #### 見出しをつけたい
